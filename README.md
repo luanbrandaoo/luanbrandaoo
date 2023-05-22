@@ -1,4 +1,6 @@
-### print('hello world')
+```diff
+@@ print('hello world') @@
+```
 
 [![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannbrandao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
