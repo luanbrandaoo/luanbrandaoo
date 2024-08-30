@@ -2,7 +2,7 @@
 print('hello world')
 ```
 
-[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanbrandaoo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanbrandaoo&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
